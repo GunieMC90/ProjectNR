@@ -17,7 +17,7 @@
       "Narcos Romania Roleplay",
       "Narcos Romania RP",
       "Narcos Romania Fivem",
-      "Fivem Romania",
+      "Fivem Romania"
     ],
     "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
     "twitterCard": "summary_large_image",
@@ -45,11 +45,11 @@
     }
   },
   "server": {
-  "name": "Narcos Romania Roleplay",
-  "shortName": "Narcos Romania RP",
-  "tagline": "Unde Legendele Se Scriu",
-  "slogan": "Mafia modernă. Bani murdari. Acțiune reală.",
-  "description": "Narcos Romania — unicul server de ADVANCED RolePlay din România. Intră într-o lume unde mafia controlează orașul, poliția vânează fără milă, iar trădarea pândește la fiecare colț. Construiește-ți imperiul și devino următoarea legendă.",
+    "name": "Narcos Romania Roleplay",
+    "shortName": "Narcos Romania RP",
+    "tagline": "Unde Legendele Se Scriu",
+    "slogan": "Mafia modernă. Bani murdari. Acțiune reală.",
+    "description": "Narcos Romania — unicul server de ADVANCED RolePlay din România. Intră într-o lume unde mafia controlează orașul, poliția vânează fără milă, iar trădarea pândește la fiecare colț. Construiește-ți imperiul și devino următoarea legendă.",
     "ip": "play.narcosromania.ro",
     "port": "30120",
     "discord": "https://discord.gg/fourtwenty",
@@ -97,7 +97,7 @@
       "sectionTag": "Carieră",
       "title": "Construiește-ți",
       "titleAccent": "Legenda",
-      "subtitle": "Modelază-ți destinul în Narcos Romania. Fiecare drum ales spune o poveste diferită.",
+      "subtitle": "Modelează-ți destinul în Narcos Romania. Fiecare drum ales spune o poveste diferită.",
       "categoriesTitle": "Categorii",
       "allJobsLabel": "Toate joburile",
       "totalJobsLabel": "Total joburi",
@@ -132,7 +132,7 @@
       "sectionTag": "Leadership",
       "title": "Echipa",
       "titleAccent": "Narcos",
-      "subtitle": "Oamenii din spatele experienței tale cinematice. Dedi cați la excelență.",
+      "subtitle": "Oamenii din spatele experienței tale cinematice. Dedicați la excelență.",
       "joinTitle": "Alătură-te echipei",
       "joinSubtitle": "Pregătit să ajuți la scrierea poveștii?",
       "joinButton": "APLICĂ PE DISCORD"
